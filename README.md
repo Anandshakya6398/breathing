@@ -15,6 +15,13 @@ It guides users through a relaxing inhale-exhale cycle with smooth animations an
 - **Back** button to return to the start screen  
 
 ---
+## Technologies Used
+
+React
+
+Tailwind CSS
+
+CSS Animations
 
 ## Installation
 
